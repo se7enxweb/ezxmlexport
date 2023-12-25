@@ -1,5 +1,5 @@
 {
-    "name": "ezsystems/ezxmlexport-ls",
+    "name": "se7enxweb/ezxmlexport-ls",
     "description": "eZ Publish Legacy Extension for exporting large amounts of content for for instance pushing to static cache or backup",
     "type": "ezpublish-legacy-extension",
     "license": "GPL-2.0",
